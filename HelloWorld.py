@@ -1,5 +1,5 @@
 # This project is a new project in Pycharm meant to be committed/pushed to GitHub as a public project.
-print("Hello, world!")
+print("Hello, world! This is a test.")
 
 # Interviewer: What is your biggest strength?
 #
